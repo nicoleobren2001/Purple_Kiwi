@@ -1,4 +1,5 @@
 # --- Kiwi silhouette (filled) with eye ---
+#GDAY
 
 # Body (ellipse)
 t <- seq(0, 2*pi, length.out = 400)

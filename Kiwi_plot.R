@@ -37,7 +37,7 @@ plot(NULL, xlim = c(-1.5, 2.2), ylim = c(-1.6, 1.2),
      main = "Graham")
 
 # Filled body+head
-polygon(kiwi_poly$x, kiwi_poly$y, col = "purple", border = NA)
+polygon(kiwi_poly$x, kiwi_poly$y, col = "brown", border = NA)
 
 # Beak
 lines(beak$x, beak$y, lwd = 3)

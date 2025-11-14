@@ -48,4 +48,3 @@ lines(beak$x, beak$y, lwd = 3)
 segments(leg1$x[1], leg1$y[1], leg1$x[2], leg1$y[2], lwd = 4)
 segments(leg2$x[1], leg2$y[1], leg2$x[2], leg2$y[2], lwd = 4)
 
-

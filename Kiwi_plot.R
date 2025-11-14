@@ -1,5 +1,7 @@
 # --- Kiwi silhouette (filled) with eye ---
 
+#kia ora
+
 # Body (ellipse)
 t <- seq(0, 2*pi, length.out = 400)
 body <- data.frame(
